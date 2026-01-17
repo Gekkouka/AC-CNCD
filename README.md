@@ -2,8 +2,10 @@
 This repository contains the official implementation of the paper “AC-CDCN:A Cross-Subject EEG Emotion Recognition Model with Anti-Collapse Domain Generalization”. 
 
 ## Overview
-AC-CDCN addresses cross-subject EEG emotion recognition under the domain generalization setting, 
-where each subject is treated as an independent domain and no target-subject data is accessible during training.
+This repository contains the official implementation of the paper 
+“AC-CDCN: A Cross-Subject EEG Emotion Recognition Model with Anti-Collapse Domain Generalization”.
+
+The paper associated with this repository is available at: https://escholarship.org/uc/item/2772j8s6
 
 ## Key Features
 - Cross-subject EEG emotion recognition under domain generalization
@@ -15,6 +17,7 @@ where each subject is treated as an independent domain and no target-subject dat
 This code supports experiments on the following public EEG emotion datasets:
 - SEED
 - SEED-IV
+
 Please follow the original dataset licenses and download instructions.
 
 ## Usage
